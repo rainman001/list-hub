@@ -1,0 +1,14 @@
+.finished {
+  text-decoration: line-through;
+  background-color: gray;
+}
+
+.unfinished {
+  text-decoration: none;
+}
+
+.item {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+}

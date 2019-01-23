@@ -1,0 +1,12 @@
+.mainContainer {
+  max-height: 400px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
