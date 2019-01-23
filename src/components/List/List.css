@@ -2,3 +2,15 @@
   display: block;
   width: 200px;
 }
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  border: 1px solid green;
+  margin: 3px;
+  padding: 3px;
+  border-radius: 10px;
+}

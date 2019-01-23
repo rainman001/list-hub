@@ -27,7 +27,7 @@ class List extends Component {
 
   render() {
     return (
-      <div>
+      <div className="list">
         <h2>{this.props.title}</h2>
         <form className="List" onSubmit={this.onSubmit}>
           <input value={this.state.item} onChange={this.onChange} />
